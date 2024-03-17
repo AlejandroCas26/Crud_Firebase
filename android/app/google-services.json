@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "851038072680",
+    "firebase_url": "https://crud-f2508-default-rtdb.firebaseio.com",
+    "project_id": "crud-f2508",
+    "storage_bucket": "crud-f2508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851038072680:android:2427404ee77829ef61f0dd",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3P3saVBYpREtSleLM707XIS6Qfa6eRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA9kOj8YJB8dnUi9pT9YafR0H9nSbaamiY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>851038072680</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crudFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>crud-f2508</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crud-f2508.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:851038072680:ios:01aadeb218c62be061f0dd</string>
+	<key>DATABASE_URL</key>
+	<string>https://crud-f2508-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
